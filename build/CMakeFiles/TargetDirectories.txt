@@ -1,0 +1,8 @@
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/CMakeFiles/edit_cache.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/CMakeFiles/rebuild_cache.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/projekt/CMakeFiles/edit_cache.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/projekt/CMakeFiles/rebuild_cache.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/projekt/CMakeFiles/proj.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/test/CMakeFiles/edit_cache.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/test/CMakeFiles/rebuild_cache.dir
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/build/test/CMakeFiles/testx.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/inOut.cpp
+iostream
+-
+string
+-
+inOut.h
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/inOut.h
+
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/inOut.h
+
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/logic/file.cpp
+iostream
+-
+string
+-
+file.h
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/logic/file.h
+../inOut.h
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/inOut.h
+
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/logic/file.h
+
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/main.cpp
+logic/file.h
+/home/agnieszka/Pulpit/wilkpro/testowanie_oprogramowania/projekt/logic/file.h
+

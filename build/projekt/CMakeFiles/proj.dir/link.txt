@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proj.dir/main.cpp.o CMakeFiles/proj.dir/inOut.cpp.o CMakeFiles/proj.dir/logic/file.cpp.o  -o proj -rdynamic 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testx.dir/main.cpp.o CMakeFiles/testx.dir/inOut.cpp.o CMakeFiles/testx.dir/test.cpp.o CMakeFiles/testx.dir/logic/file.cpp.o  -o testx -rdynamic 
